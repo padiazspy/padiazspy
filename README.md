@@ -1,6 +1,6 @@
 🎓 Matemático recién graduado  
 📊 Futuro Data Scientist  
 🐍 Aprendiendo Python y Machine Learning  
-📍 España
+📍 Cáceres, España
 
 Interesado en transformar datos en decisiones.
