@@ -1,4 +1,4 @@
-🎓 Matemático recién graduado (Universidad de Extremadura)
+🎓 Matemático recién graduado en la Universidad de Extremadura
 📊 Futuro Data Scientist  
 🐍 Python y Machine Learning  
 📍 Cáceres, España
