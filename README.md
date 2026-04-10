@@ -1,5 +1,4 @@
 🎓 Matemático
-📊 Futuro Data Scientist  
 🐍 Python y Machine Learning  
 📍 Cáceres, España
 
