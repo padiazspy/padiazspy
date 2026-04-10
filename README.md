@@ -1,5 +1,3 @@
-🎓 Matemático
-🐍 Python y Machine Learning  
-📍 Cáceres, España
+Graduado en Matemáticas
 
 Interesado en transformar datos en decisiones.
